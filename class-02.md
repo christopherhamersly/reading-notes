@@ -185,3 +185,19 @@
  - <= less thanor equal to
  - && - (logical and) - this operator tests more than one condition
  - || - (logical not) - this operator takes a single Boolean value and inverts it. 
+
+## Git Notes
+> **Style** -  Markup syntax, wrap margins, grammar, capitalization, punctuation. Spell these things out, remove the guesswork, and make it all as simple as possible. The end result will be a remarkably consistent log that’s not only a pleasure to read but that actually does get read on a regular basis.
+
+**Content** - What kind of information should the body of the commit message (if any) contain? What should it not contain?
+
+**Metadata** - How should issue tracking IDs, pull request numbers, etc. be referenced?
+
+#### Seven Great Rules of a great commit message
+1. Seperate subject from body with a blank line
+1. Limit the subject line to 50 characters
+1. Capatalize the subject line
+1. Do no end the subject line with a period
+1. Use the imperative mood in the subject line
+1. Wrap the body at 72 characters
+1. Use the body to explain what and why vs how
