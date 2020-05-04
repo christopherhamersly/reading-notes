@@ -8,3 +8,4 @@
 1. [class-03](https://christopherhamersly.github.io/reading-notes/class-03)
 1. [class-04](https://christopherhamersly.github.io/reading-notes/class-04)
 1. [class-05](https://christopherhamersly.github.io/reading-notes/class-05)
+1. [class-06](https://christopherhamersly.github.io/reading-notes/class-06)
