@@ -31,7 +31,7 @@
     - Document object model - creates a model of the current web page
     - Global Javascript object - The global object do not form a single model.  They are a group of individual objects that relate to different parts of the Javascript language. 
 
-  ### The browser object model 
+### The browser object model 
   * Properties
     * window.innerHeight
     * window.innerWidth
@@ -51,7 +51,7 @@
     * window.open()
     * window.print()
 
-  ### the document object model
+### the document object model
   * Properties
     * document.title
     * document.lastModified
@@ -65,7 +65,7 @@
     * document.createElement()
     * document.createTextNode()
 
-  #### Global Object
+#### Global Object
     * String Objects 
       * properties
         * length
