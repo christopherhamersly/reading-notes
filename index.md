@@ -9,3 +9,4 @@
 1. [class-04](https://christopherhamersly.github.io/reading-notes/class-04)
 1. [class-05](https://christopherhamersly.github.io/reading-notes/class-05)
 1. [class-06](https://christopherhamersly.github.io/reading-notes/class-06)
+1. [class-07](https://christopherhamersly.github.io/reading-notes/class-06)
