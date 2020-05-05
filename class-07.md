@@ -1,3 +1,9 @@
+# Domain Modeling
+  * Domain modeling is the process of creating a conceptual model in code for a specific problem. 
+  * Generate random number - To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a Math.random() function for just this sort of occasion.
+  * 
+
+
 # Tables 
   * A table represents information in a grid format.  Examples of tables include financial reports, TV schedules. and sports results.
 
