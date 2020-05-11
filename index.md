@@ -13,3 +13,4 @@
 1. [class-08](https://christopherhamersly.github.io/reading-notes/class-08)
 1. [class-08pt2](https://christopherhamersly.github.io/reading-notes/class-08pt2)
 1. [class-10](https://christopherhamersly.github.io/reading-notes/class-10)
+1. [class-11](https://christopherhamersly.github.io/reading-notes/class-11)
