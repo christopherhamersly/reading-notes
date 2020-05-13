@@ -16,3 +16,5 @@
 1. [class-11](https://christopherhamersly.github.io/reading-notes/class-11)
 1. [class-12](https://christopherhamersly.github.io/reading-notes/class-12)
 1. [class-13](https://christopherhamersly.github.io/reading-notes/class-13)
+1. [class-14](https://christopherhamersly.github.io/reading-notes/class-14)
+1. [class-15](https://christopherhamersly.github.io/reading-notes/class-15)
