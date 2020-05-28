@@ -5,5 +5,6 @@ These are notes from assigned reading while attending Codefellows
 ## *Journal entries from readings*
 
 1. [102](https://christopherhamersly.github.io/learning-journal/)
-1. [201](https://christopherhamersly.github.io/reading-notes/201/201-Reading-Notes)
-1. [301](https://christopherhamersly.github.io/reading-notes/301/301-Reading-Notes)
+1. [201 - Foundations of Software Development](https://christopherhamersly.github.io/reading-notes/201/201-Reading-Notes)
+1. [301 - Intermediate Software Development](https://christopherhamersly.github.io/reading-notes/301/301-Reading-Notes)
+1. [401 - Advanced Software Development](http://christopherhamersly.github.io/readingnotes/401/401-Reading-Notes)
