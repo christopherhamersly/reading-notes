@@ -6,7 +6,7 @@
 
 ***
 
-## *Journal entries from readings*
+## Please select which class you would like to see from the list below. 
 
 ***
 
@@ -17,4 +17,4 @@
 
 *** 
 
-###### Christopher Hamersly
+#### Thank you for your time
