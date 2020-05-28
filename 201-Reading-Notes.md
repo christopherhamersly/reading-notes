@@ -1,11 +1,9 @@
-# Reading Notes
+# Code 201 reading-notes
 ***
-These are notes from assigned reading while attending Codefellows
 
 ## *Journal entries from readings*
 
-1. [102](https://christopherhamersly.github.io/learning-journal/)
-1. [201](https://christopherhamersly.github.io/reading-notes/201-Reading-Notes)
+1. [class-01](https://christopherhamersly.github.io/reading-notes/class-01)
 1. [class-02](https://christopherhamersly.github.io/reading-notes/class-02)
 1. [class-03](https://christopherhamersly.github.io/reading-notes/class-03)
 1. [class-04](https://christopherhamersly.github.io/reading-notes/class-04)
