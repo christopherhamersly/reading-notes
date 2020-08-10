@@ -4,8 +4,8 @@
 
 ## *Journal entries from readings*
 
-<!-- 1. [class-01](https://christopherhamersly.github.io/reading-notes/401/class-01)
-1. [class-02](https://christopherhamersly.github.io/reading-notes/401/class-02)
+1. [class-01](https://christopherhamersly.github.io/reading-notes/401/class-01)
+<!-- 1. [class-02](https://christopherhamersly.github.io/reading-notes/401/class-02)
 1. [class-03](https://christopherhamersly.github.io/reading-notes/401/class-03)
 1. [class-04](https://christopherhamersly.github.io/reading-notes/401/class-04)
 1. [class-05](https://christopherhamersly.github.io/reading-notes/401/class-05)
