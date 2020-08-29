@@ -19,3 +19,11 @@
 1. [class-13](https://christopherhamersly.github.io/reading-notes/401/class-13)
 1. [class-14](https://christopherhamersly.github.io/reading-notes/401/class-14)
 1. [class-15](https://christopherhamersly.github.io/reading-notes/401/class-15) 
+1. [class-16](https://christopherhamersly.github.io/reading-notes/401/class-16) 
+1. [class-17](https://christopherhamersly.github.io/reading-notes/401/class-17) 
+1. [class-18](https://christopherhamersly.github.io/reading-notes/401/class-18) 
+1. [class-19](https://christopherhamersly.github.io/reading-notes/401/class-19) 
+1. [class-20](https://christopherhamersly.github.io/reading-notes/401/class-20) 
+
+
+
