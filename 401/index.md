@@ -43,6 +43,10 @@
 1. [class-37](https://christopherhamersly.github.io/reading-notes/401/class-37)
 1. [class-38](https://christopherhamersly.github.io/reading-notes/401/class-38)
 1. [class-39](https://christopherhamersly.github.io/reading-notes/401/class-39)
+1. [class-41](https://christopherhamersly.github.io/reading-notes/401/class-41)
+1. [class-42](https://christopherhamersly.github.io/reading-notes/401/class-42)
+1. [class-43](https://christopherhamersly.github.io/reading-notes/401/class-43)
+1. [class-44](https://christopherhamersly.github.io/reading-notes/401/class-44)
 
 
 
